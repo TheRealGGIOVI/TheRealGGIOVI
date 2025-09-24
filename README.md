@@ -40,12 +40,13 @@ Navicom provides a complete online shopping experience with features like persis
 - **Infrastructure:** AWS (EC2, Nginx, CertBot), RESTful API, JWT Authentication  
 - **Other:** Stripe integration for payments, automated email notifications  
 
-
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheRealGGIOVI&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealGGIOVI&layout=compact&theme=dark&hide_border=true)
+
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealGGIOVI&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealGGIOVI&layout=compact&theme=radical&hide_border=true)
 
 ---
 
