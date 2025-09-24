@@ -6,8 +6,8 @@ Passionate about backend development, DevOps, and building useful products while
 ---
 
 ## 📌 About Me
-- 🎓 Currently studying **Artificial Intelligence and Computing** at university.  
-- 💻 Skilled in **backend development** and interested in **DevOps practices**.  
+- 🎓 Currently studying **Artificial Intelligence and Computing** at Alfonso X El Sabio Mare Nostrum university.  
+- 💻 **Backend development** enthusiast, curious about **automation** and **DevOps**.  
 - 🔎 Always curious and motivated to **learn new technologies**.  
 - 🎯 Goal: Build a career in **Artificial Intelligence** and contribute to impactful software solutions.  
 
@@ -31,8 +31,15 @@ Passionate about backend development, DevOps, and building useful products while
 ## 🌟 Featured Project
 
 🔹 [**Navicom**](https://github.com/TheRealGGIOVI/Navicom)  
-A personal project focused on [breve descripción tuya, ej: "developing navigation and communication tools" o lo que haga el proyecto].  
-Tech used: *[añade aquí las principales tecnologías que usaste, ej: Java + React + MySQL]*  
+An e-commerce platform for refurbished IT products, developed as a **Final Degree Project**.  
+Navicom provides a complete online shopping experience with features like persistent shopping cart, integrated payment gateway, and an admin panel for managing products and users.  
+
+**Tech used:**  
+- **Backend:** C#, ASP.NET Core, Entity Framework, PostgreSQL  
+- **Frontend:** React, HTML, CSS  
+- **Infrastructure:** AWS (EC2, Nginx, CertBot), RESTful API, JWT Authentication  
+- **Other:** Stripe integration for payments, automated email notifications  
+
 
 ---
 
