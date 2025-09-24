@@ -46,7 +46,7 @@ Navicom provides a complete online shopping experience with features like persis
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealGGIOVI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,html)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealGGIOVI&layout=compact&theme=tokyonight&hide_border=true)
+![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealGGIOVI&show_icons=true&theme=tokyonight&hide_border=true)  
 
 ---
 
