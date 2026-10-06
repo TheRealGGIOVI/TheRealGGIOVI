@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Web+Applications+Developer;AI+%26+Computing+Student;Passionate+about+Backend+%26+Cloud" alt="Typing SVG" />
 </div>
 
-I'm a Web Applications Developer currently pursuing a **Bachelor’s Degree in Artificial Intelligence and Computing** at Alfonso X El Sabio Mare Nostrum University. I am passionate about backend development, cloud infrastructure, and building scalable, intelligent products. 🚀
+I'm a Web Applications Developer currently pursuing a **Bachelor’s Degree in Artificial Intelligence and Computing** at Alfonso X El Sabio Mare Nostrum University. I am passionate about backend development, cloud infrastructure, and building scalable, intelligent products. 
 
 ---
 
