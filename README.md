@@ -16,8 +16,11 @@ I'm a Web Applications Developer currently pursuing a **Bachelor’s Degree in A
 - 💻 **Backend development** enthusiast, deeply curious about **automation**, **DevOps**, and **Cloud Computing**.
 - 🔎 Constantly exploring and learning new technologies to build robust software.
 - 🎯 **Goal:** Forge a career in **Artificial Intelligence** and contribute to impactful, innovative software solutions.
+
 ---
+
 ## 🛠️ Tech Stack & Skills
+
 ### 👩‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -66,8 +69,17 @@ Navicom provides a complete online shopping experience with features like a pers
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRealGGIOVI&show_icons=true&theme=tokyonight&hide_border=true" alt="Gio's GitHub Stats" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TheRealGGIOVI&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Gio's GitHub Stats" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheRealGGIOVI&layout=compact&theme=tokyonight&hide_border=true" width="306" alt="Gio's Top Languages" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealGGIOVI&theme=tokyonight&hide_border=true" alt="Gio's GitHub Streak" />
+  </p>
 </div>
+
 <br/>
 <div align="center">
   <i>"Learning something new every day while building meaningful software."</i> ✨
